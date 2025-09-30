@@ -10,7 +10,7 @@ Website ini menampilkan informasi tentang saya, pengalaman, skill, serta link ke
 - Tombol download CV (PDF)
 - Tampilan portofolio / project yang pernah saya kerjakan
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 - **HTML5** untuk struktur konten
 - **CSS3** untuk styling & animasi
 - **JavaScript (Vanilla)** untuk interaktivitas
